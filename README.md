@@ -46,6 +46,7 @@ Controller → Service → Repository → Entity → Database
 
 ## 📂 Project Structure
 
+```
 Sannidhi_XWorkzModule/
 │
 ├── src/
@@ -69,7 +70,7 @@ Sannidhi_XWorkzModule/
 ├── pom.xml
 ├── .gitignore
 └── README.md
----
+```
 
 ## ⚙ Key Features
 
