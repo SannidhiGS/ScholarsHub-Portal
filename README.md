@@ -51,15 +51,17 @@ Sannidhi_XWorkzModule/
 ├── src/
 │   └── main/
 │       ├── java/
-│       │   └── com/xworkz/SannidhiApp/
-│       │       ├── configure/
-│       │       ├── controller/
-│       │       ├── dto/
-│       │       ├── entity/
-│       │       ├── exceptions/
-│       │       ├── repo/
-│       │       ├── service/
-│       │       └── util/
+│       │   └── com/
+│       │       └── xworkz/
+│       │           └── SannidhiApp/
+│       │               ├── configure/
+│       │               ├── controller/
+│       │               ├── dto/
+│       │               ├── entity/
+│       │               ├── exceptions/
+│       │               ├── repo/
+│       │               ├── service/
+│       │               └── util/
 │       │
 │       ├── resources/
 │       └── webapp/
@@ -67,7 +69,6 @@ Sannidhi_XWorkzModule/
 ├── pom.xml
 ├── .gitignore
 └── README.md
-
 ---
 
 ## ⚙ Key Features
